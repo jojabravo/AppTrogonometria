@@ -1,0 +1,50 @@
+{
+  "name": "Trigonométrica: El Lenguaje del Universo",
+  "short_name": "Trigonométrica",
+  "description": "Aplicación educativa interactiva para explorar trigonometría, geometría y matemáticas con sentido humano y rigor pedagógico.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#9333ea",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": ["education", "math", "productivity"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Módulo 1: Ángulos",
+      "short_name": "Ángulos",
+      "description": "Fundamentos de giro, radianes y arcos",
+      "url": "/#module1",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Módulo: Triángulos",
+      "short_name": "Triángulos",
+      "description": "Paralelas, Pitágoras y Teorema de Thales",
+      "url": "/#triangles",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    }
+  ]
+}

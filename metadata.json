@@ -1,0 +1,8 @@
+{
+  "name": "Trigonométrica: El Lenguaje del Universo",
+  "description": "Una aplicación educativa interactiva de trigonometría diseñada con enfoque pedagógico y sensibilidad humana para explorar ángulos, radianes y funciones matemáticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
